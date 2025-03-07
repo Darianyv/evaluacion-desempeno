@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './styles.css'
+import './index.css'
 import Card from './components/Cards'
 
 createRoot(document.getElementById('root')).render(
