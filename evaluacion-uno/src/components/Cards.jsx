@@ -1,9 +1,8 @@
 const Card = () => {
     return (
-        <div className="card">
-        <img src="https://via.placeholder.com/150" alt="Imagen" />
-        <h2>Titulo</h2>
-        <p>Descripción</p>
+        <div className="card-tarjeta">
+            <h2>COMPONENTE TRES</h2>
+            <h3>TITULO</h3>
         </div>
     );
 };
